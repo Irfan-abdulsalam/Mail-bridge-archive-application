@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.Mail_Bridge_Archive.MailControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.274 s - in com.Mail_Bridge_Archive.MailControllerTest

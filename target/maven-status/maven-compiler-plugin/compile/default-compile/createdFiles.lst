@@ -1,0 +1,13 @@
+com\Mail_Bridge_Archive\util\PDFParserUtil.class
+com\Mail_Bridge_Archive\dto\ProcessMailRequest.class
+com\Mail_Bridge_Archive\MailBridgeArchiveApplication.class
+com\Mail_Bridge_Archive\service\MailService.class
+com\Mail_Bridge_Archive\repository\MailArchiveRepository.class
+com\Mail_Bridge_Archive\config\MailConfig.class
+com\Mail_Bridge_Archive\config\SwaggerConfig.class
+com\Mail_Bridge_Archive\dto\ManualProcessRequest.class
+com\Mail_Bridge_Archive\util\CSVParserUtil.class
+com\Mail_Bridge_Archive\controller\MailController.class
+com\Mail_Bridge_Archive\model\MailArchive.class
+com\Mail_Bridge_Archive\util\ExcelParserUtil.class
+com\Mail_Bridge_Archive\util\TXTParserUtil.class
